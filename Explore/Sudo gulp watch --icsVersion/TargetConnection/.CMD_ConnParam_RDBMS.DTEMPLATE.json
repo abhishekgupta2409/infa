@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "aPlGNRpLOEte62PyuNOkgj",
+    "name" : "CMD_ConnParam_RDBMS",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100001700000000000X"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Both SRC and Tgt Connection and object are parameterized for RDBMS",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
