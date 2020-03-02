@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "580rKM9EsC4b3Ho8XmXrOH",
+    "name" : "Cleanse",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "580rKM9EsC4b3Ho8XmXrOH"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

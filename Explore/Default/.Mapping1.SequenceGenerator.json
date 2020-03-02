@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "kjGZ4OnSG8DjiN4qwx3TqA",
+    "name" : "Mapping1",
+    "type" : "SequenceGenerator",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01021842000000000004"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
