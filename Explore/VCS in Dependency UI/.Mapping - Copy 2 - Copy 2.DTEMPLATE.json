@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "2ybvOscQiSvdJEZ35f1DMV",
-    "name" : "Mapping - Copy 1 - Copy 1",
+    "id" : "7zyUNhF6xtlfw3QXKWckMI",
+    "name" : "Mapping - Copy 2 - Copy 2",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0102181700000000002J"
+        "repoHandle" : "0102181700000000002R"
       },
       "contextAttributes" : [ {
         "name" : "id",
