@@ -1,8 +1,8 @@
 {
   "objectInfo" : {
-    "id" : "5Lm1KmmiYu0f7nfoncdhcn",
-    "name" : "copy-testing2",
-    "type" : "Project",
+    "id" : "fqvBHSzb0K6jA1xhg1BYOa",
+    "name" : "mapping - c212",
+    "type" : "Folder",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
@@ -11,8 +11,8 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "test1",
-        "contentType" : null,
+        "description" : "tsef333",
+        "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }
