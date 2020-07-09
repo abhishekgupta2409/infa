@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8l6kma7mEauf4FYnDA24i4",
+    "id" : "0acqClxP2shcRicLG9C8Yf",
     "name" : "Mapping1 - Copy 1",
     "type" : "SequenceGenerator",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01021842000000000006"
+        "repoHandle" : "0102184200000000000A"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }

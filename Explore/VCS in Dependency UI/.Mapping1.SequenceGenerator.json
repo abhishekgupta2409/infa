@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "4vpYtYy5iuejp4STKIx1yv",
+    "id" : "56HGS21eMs7ihCysZKMuY1",
     "name" : "Mapping1",
     "type" : "SequenceGenerator",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01021842000000000005"
+        "repoHandle" : "01021842000000000009"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }

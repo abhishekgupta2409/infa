@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "4Ya8LMG9Oihjvn0USvTRI0",
+    "id" : "1893pAjaHOlfDbaepgALw1",
     "name" : "Mapping1 - Copy 1",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0102181700000000001I"
+        "repoHandle" : "01021817000000000056"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
