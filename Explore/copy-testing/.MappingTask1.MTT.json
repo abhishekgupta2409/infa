@@ -25,7 +25,7 @@
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
     "id" : "a2SaG8z4oqcheZC4fZRFYj",
-    "name" : "Mapping2",
+    "name" : "Valid Mapping1 - Dependency",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -35,14 +35,17 @@
       "repoInfo" : {
         "repoHandle" : "0102181700000000000F"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/Auto-Deploy with Source Control"
+    "path" : "/Explore/copy-testing"
   }, {
     "id" : "6S3tE8mG7KwfElNMDqmKY7",
     "name" : "Informatica Cloud Hosted Agent",
