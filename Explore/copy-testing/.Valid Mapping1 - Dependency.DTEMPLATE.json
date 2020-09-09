@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "a2SaG8z4oqcheZC4fZRFYj",
+    "id" : "2e2Oo4FLkkriJnwk0TxcuH",
     "name" : "Valid Mapping1 - Dependency",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0102181700000000000F"
+        "repoHandle" : "010218170000000000CT"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : "JSON",
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }
